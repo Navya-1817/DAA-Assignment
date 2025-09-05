@@ -1,0 +1,1 @@
+This repo contains solution to https://www.hackerrank.com/challenges/qheap1/problem in python and a document elaborating on Heap Data Structure and its operations along with Time and Space Complexity as a part of group assignment.
